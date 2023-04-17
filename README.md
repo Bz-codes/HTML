@@ -3,3 +3,4 @@ A portfolio webpage
 
 <br><br>
 <hr>
+GoMyCode HTML checkpoint.
