@@ -5,5 +5,4 @@ A portfolio webpage
 <hr>
 GoMyCode HTML checkpoint.
 <br>
-view site  
-https://bz-codes.github.io/HTML/
+
